@@ -1,0 +1,27 @@
+.card{
+    width: 60%;
+    max-width: 250px;
+    color: #fff;
+    padding: 20px 15px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    margin-bottom: 20px;
+    clip-path: polygon(50% 0%, 100% 0, 100% 82%, 76% 100%, 0 100%, 0% 60%, 0 0);
+}
+
+.episode{
+    width: 60%;
+    max-width: 250px;
+    color: #fff;
+    padding: 20px 15px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    margin-bottom: 20px;
+    clip-path: polygon(50% 0%, 100% 0, 100% 82%, 76% 100%, 0 100%, 0% 60%, 0 0);
+}
